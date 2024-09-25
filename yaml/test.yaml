@@ -1,0 +1,16 @@
+key: Hola Mundo
+person:
+  name: Trish
+  lastName: Ramos
+  age: 50
+  city: Cali
+  items:
+    - item1
+    - item2
+    - item3
+  itemsWithValue:
+    - item1: value1
+    - item2: value2
+    
+scripts: |
+  touch hola.txt
